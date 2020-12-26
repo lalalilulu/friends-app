@@ -109,7 +109,6 @@ body {
     display: inline-block;
     width: 35px;
     height: 35px;
-    background: url(img/sort-ascending.png) center no-repeat;
     transition: .5s;
 }
 
